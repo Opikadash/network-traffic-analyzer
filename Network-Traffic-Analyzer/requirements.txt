@@ -1,0 +1,7 @@
+scapy
+scikit-learn
+numpy
+matplotlib
+plotly
+dash
+pandas
