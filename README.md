@@ -39,7 +39,7 @@ A professional network traffic analysis tool that combines real-time packet capt
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/network-traffic-analyzer.git
+git clone https://github.com/Opikadash/network-traffic-analyzer.git
 cd network-traffic-analyzer
 ```
 
